@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927378045396",
+    "project_id": "hshm-project",
+    "storage_bucket": "hshm-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927378045396:android:de7d61685473b069d9fe41",
+        "android_client_info": {
+          "package_name": "com.example.footware_client1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD36CeYLRTc2yldWelWOlgfDxGRGthtHno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927378045396:android:2511a7b4a1741636d9fe41",
+        "android_client_info": {
+          "package_name": "com.example.hshm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD36CeYLRTc2yldWelWOlgfDxGRGthtHno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
